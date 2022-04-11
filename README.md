@@ -14,19 +14,19 @@ Belows are the Work Breakdown Structure and Flowchat of the project:
 <img src="https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/5e70c9836bbc70875b064bfbe0192cc9f86dd55c/FIG.1.4_Flowchart.png "  width="300" height="200" />
 
 ## Installation and Implementation
-In this repositary, you will find several components and folders. Here in this part, the relative functionalities are described:
+In this repository, you will find several components and folders. Here in this part, the relative functionalities are described:
+
 1. User Interface: please refer to the user-interface.pdf in the folder. It is generated and designed via Adobe XD.
-2. 2Davatar folder: the Live2D and design folders, layers can be found here in this folder. With the .moc3 and .json files attached, you can import the model into Live2D and perform the 2D Forever Your Partner (FYP) avatar.
+2. 2Davatar folder: the Live2D and design folders, and layers can be found here in this folder. With the .moc3 and .json files attached, you can import the model into Live2D and perform the 2D Forever Your Partner (FYP) avatar. 
 ![alt text](https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/3156fd6af8b2af898ac5ff97d133834ffc03dde5/2Dimplementation.png "The Live2D interface with FYP demo")
-3. 3Dagent folder: Screenshots and Unity folder are here in this folder. The 3D animation and responsive agent implementation can be found here and open in Unity. For user with Oculus Quest or any other VR applications, please feel free to open it via Oculus Link. 
+3. 3Dagent folder: Screenshots and Unity folder are here in this folder. The 3D animation and responsive agent implementation can be found here and open in Unity. For users with Oculus Quest or any other VR applications, please feel free to open it via Oculus Link.  To open the Unity file, you can either use sidequest/Oculus Link as a review with the demo.apk, or (preferable) use Unity3D in playing the saved scene. Here are the procedures:
+Please download Unity if you do not have one from [Unity Official] (https://unity.com/). For those who have the application, download this repository and open that with the Unity project.
 ![alt text](https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/47f6c20f2122eedbc1ca2452a67847cd34cace90/3Dimplementation.png "The Unity interface with FYP agent")
-    To open the Unity file, you can either use sidequest/Oculus Link as review with the demo.apk, or (perferable) use Unity3D in playing the saved scene. Here are the procedures:
-    * Please download Unity if you do not have one from [Unity Official] (https://unity.com/). For those who have the application, download this repositary and open that with Unity project.
-    * Open the scene "InteractiveFYP". Please confirm the assets and its relevant hierarchy.
-    * Please refer to the Official Manual https://docs.unity3d.com/Manual/VROverview.html to see the instruction and open it according to your own settings (i.e. IOS and Android)
-    * Build and Run the scene (File --> Project Setting --> Open Scene & Switch Platform & Build and Run Scene). Hence, play the scene.
-    * Say Hello to trigger and activate FYP. Nod or Shake your head with the VR headset to react and respond FYP.
-4. Others: the performed modified version of song United in the Sky by Unity Chan and the UniVRM asset can be found. 
+Open the scene "InteractiveFYP". Please confirm the assets and their relevant hierarchy.
+Please refer to the Official Manual https://docs.unity3d.com/Manual/VROverview.html to see the instruction and open it according to your own settings (i.e. IOS and Android)
+Build and Run the scene (File --> Project Setting --> Open Scene & Switch Platform & Build and Run Scene). Hence, play the scene.
+Say Hello to trigger and activate FYP. Nod or shake your head with the VR headset to react and respond to FYP.
+4. Others: the performed modified version of the song United in the Sky by Unity Chan and the UniVRM asset can be found.
 
 ## Improvement
 In this project, Forever Your Partner (FYP), a 3D interactive agent for supporting immersive viewer engagement is built. A possible interface of system is proposed and demonstrated. To the best of our knowledge, this adoption of AI-driven agent in VTubing is the first attempt as a method and assistance in virtual character industry. By the evaluation we had, use of immersive environment and agent can increase immersiveness by limiting the sense of distance and enhancing sense of presence. It provides multiple ways in enhancing the engagement. While the use of agent is the key session in this part of group project, the interaction between streamers (or Nakanohitos) and viewers is particularly highlighted in this report. The study views the potential and possibilities in more interactive engagements on VTubers category under the immersive environment. More comprehensive testing should also be organized when this project is able to continue.
