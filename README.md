@@ -2,10 +2,10 @@
 This is on the research (Final Year Project) topic "Supporting Immersive Viewer Engagement with Virtual YouTubers", under the supervision of Dr LU Zhicong
 
 ## Project Description
-<img src="https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/58c5a96e7add2c9f73fc596cde841291a9c7e53b/3Dagent/pose.png"  width="200" height="300" />
+<img src="https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/58c5a96e7add2c9f73fc596cde841291a9c7e53b/3Dagent/pose.png"  width="150" height="180" />
 
 Since late 2016, the public launch of virtual influencers foreshadows sensation soon after its release, receiving critical acclaim worldwide. Recently, one of the remarkable VTuber, Kizuna AI was selected as one of Asia’s top 60 influencers. This highlights the potentiality of this field with the advancements of skyrocketing technology. Influenced by the big market share of ACGN (anime, comic, game, novel) culture, VTubers’ behaviors are more acceptable than real-person YouTubers. Many audiences are motivated to engage with virtual Youtubers (VTubers) as they would like to interact with favorite anime characters. In consequence, VTubers can provide relaxation and entertainment for viewers. Yet, a higher sense of distance is found between viewers and virtual avatars contrary to the variety of video genres in traditional streamers. Whereas VTubing has limited genre and content diversity under its performing style, Nakanohitos can hardly build unintuitive content under identity management. These directly affect the performance and quality of VTubing. This bottleneck leaves unsolved consequences for supporting immersive viewer engagement with VTuber. This paper proposes a novel design in creating agents to share the workload of Nakanohitos and an innovative user interface in virtual reality. Significantly, possible measurements and functionalities in virtual live streaming are designed for assisting the management of characters’ persona in order to match the viewers’ expectations. The bucket testing conducted further reveals viewers’ satisfaction in adopting immersive virtual reality application on VTubing industry. Writer views the potential of relevant designs.
-
+You may refer to [Forever Your Partner Video Demonstration] (https://youtu.be/i-koxBrlpCk) for the demosntration video
 ## Structure
 There are two designs to form the portrayal of the system: user interface for VTuber or streamers; and an agent that can provide responsive interaction.  
 Belows are the Work Breakdown Structure and Flowchat of the project:
