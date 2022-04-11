@@ -19,7 +19,7 @@ In this repositary, you will find several components and folders. Here in this p
 2. 2Davatar folder: the Live2D and design folders, layers can be found here in this folder. With the .moc3 and .json files attached, you can import the model into Live2D and perform the 2D Forever Your Partner (FYP) avatar.
 ![alt text](https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/3156fd6af8b2af898ac5ff97d133834ffc03dde5/2Dimplementation.png "The Live2D interface with FYP demo")
 3. 3Dagent folder: Screenshots and Unity folder are here in this folder. The 3D animation and responsive agent implementation can be found here and open in Unity. For user with Oculus Quest or any other VR applications, please feel free to open it via Oculus Link. 
-![alt text](https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/3156fd6af8b2af898ac5ff97d133834ffc03dde5/3Dimplementation.png "The Unity interface with FYP agent")
+![alt text](https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/47f6c20f2122eedbc1ca2452a67847cd34cace90/3Dimplementation.png "The Unity interface with FYP agent")
     To open the Unity file, you can either use sidequest/Oculus Link as review with the demo.apk, or (perferable) use Unity3D in playing the saved scene. Here are the procedures:
     * Please download Unity if you do not have one from [Unity Official] (https://unity.com/). For those who have the application, download this repositary and open that with Unity project.
     * Open the scene "InteractiveFYP". Please confirm the assets and its relevant hierarchy.
