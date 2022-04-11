@@ -7,6 +7,7 @@ Since late 2016, the public launch of virtual influencers foreshadows sensation 
 ## Structure
 There are two designs to form the portrayal of the system: user interface for VTuber or streamers; and an agent that can provide responsive interaction.  
 Belows are the Work Breakdown Structure and Flowchat of the project:
+
 <img src="https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/5e70c9836bbc70875b064bfbe0192cc9f86dd55c/FIG.1.3_WBS.png "  width="300" height="200" />
 <img src="https://github.com/CPcoding0930/VTuber_ForeverYourPartner/blob/5e70c9836bbc70875b064bfbe0192cc9f86dd55c/FIG.1.4_Flowchart.png "  width="300" height="200" />
 
